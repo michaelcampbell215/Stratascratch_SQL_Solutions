@@ -4,6 +4,9 @@ Find the current salary of each employee assuming that salaries increase each ye
 Output their id, first name, last name, department ID, and current salary. Order your list by employee ID in ascending order.
 */
 
+-- https://platform.stratascratch.com/coding/10299-finding-updated-records?code_type=1
+
+
 select 
     id,
     first_name, 
