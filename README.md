@@ -9,4 +9,4 @@ Solving SQL problems from stratascratch
 
 ##### | Question Id    | Difficulty   | Problems
 -------------------------------------------------------------------------------------------------------
-ID 10353 | Easy  | [Salaries Differences]
+ID 10353 | Easy  | [Salaries Differences](Easy/Salaries Differences.sql)
