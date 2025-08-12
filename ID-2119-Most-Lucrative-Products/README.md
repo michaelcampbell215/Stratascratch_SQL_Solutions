@@ -1,5 +1,6 @@
 # Question: Most Lucrative Products
 Medium ID 2119
+https://platform.stratascratch.com/coding/2119-most-lucrative-products
 
 ## Problem Description
 You have been asked to find the 5 most lucrative products (including ties) in terms of total revenue for the first half of 2022 (from January to June inclusive).
