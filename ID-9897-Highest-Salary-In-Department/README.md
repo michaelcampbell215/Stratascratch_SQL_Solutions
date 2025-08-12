@@ -1,5 +1,5 @@
 # Question: Highest Salary In Department
-Easy ID 9897
+Medium ID 9897
 https://platform.stratascratch.com/coding/9897-highest-salary-in-department
 
 ## Problem Description
