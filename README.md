@@ -1,16 +1,11 @@
-# SOLVED STRATASCRATCH SQL PROBLEMS
+# My SQL Problem-Solving Portfolio
 
-Solving SQL problems from stratascratch 
+This repository contains my solutions to various SQL challenges from [Scratascratch.com](https://scratascratch.com/). Each folder contains the problem description, my final SQL query, and often includes my thought process for arriving at the solution.
 
-###### Site link: [Stratascratch](https://platform.stratascratch.com/coding?code_type=1)
+## Solutions Index
 
-<br>
-<br>
-
-##### |&nbsp; Question Id   &nbsp; &nbsp; | &nbsp; Difficulty  &nbsp; | &nbsp; Problems
--------------------------------------------------------------------------------------------------------
-###### | &nbsp;&nbsp;&nbsp; ID 10353 &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; Easy &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;  [Salaries Differences](https://github.com/x59215/Stratascratch_SQL_Solutions/blob/6231ee7fc7afd4f3481d4d23e1800d9a1cf67573/Easy/Salaries%20Differences.sql) <br>
-
-###### | &nbsp;&nbsp;&nbsp; ID 10299 &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; Easy &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp; [Finding Updated Records](https://github.com/x59215/Stratascratch_SQL_Solutions/blob/c92cd1c3e2dd01b5c3b451807d49a3dc312f502d/Easy/Finding%20Updated%20Records.sql) <br>
-
-###### | &nbsp;&nbsp;&nbsp; ID 10176 &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; Easy &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp; [Bikes Last Used](https://github.com/x59215/Stratascratch_SQL_Solutions/blob/cf5d2384b0d3aecddcca60cb9d5d63eab5b98d1a/Easy/Bikes%20Last%20Used.sql)
+| Question ID & Title                                     | Topics Covered            | Link to Solution File               |
+| ------------------------------------------------------- | ------------------------- | ----------------------------------- |
+| [2024 - Unique Users Per Client Per Month](./ID-2024-Unique-Users-Per-Client-Per-Month/) | `Aggregation`| [ID 2024](ID-2024-Unique-Users-Per-Client-Per-Month\Solution.sql)
+| [2056 - Number of Shipments Per Month](./ID-2056-Number-of-Shipments-Per-Month/) | `Aggregation`, `Date Truncation` | [ID 2056](ID-2056-Number-of-Shipments-Per-Month\solution.sql)
+| [9622 - Unique Users Per Client Per Month](./ID-9622-Number-Of-Bathrooms-And-Bedrooms/) | `Aggregation`, `Grouped Aggregates`, `Data Structures`| [ID 9622](ID-9622-Number-Of-Bathrooms-And-Bedrooms\solution.sql)
