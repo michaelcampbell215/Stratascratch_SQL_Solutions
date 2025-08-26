@@ -2,7 +2,6 @@
 
 | Question Title                                   | Topics Covered            | Link to Solution                |
 |--------------------------------------------------|---------------------------|----------------------------------|
-| [test](ID-1234-test) | ` test` | [ID 1234](ID-1234-test/solution.sql) |
 | [Share of Active Users](./ID-2005-Share-of-Active-Users/) | `Aggregation`, `Conditional Logic` | [ID 2005](ID-2005-Share-of-Active-Users\solution.sql)
 | [Unique Users Per Client Per Month](./ID-2024-Unique-Users-Per-Client-Per-Month/) | `Aggregation`, `Date & Time`, `Distinct Counts`, `Grouped Aggregations`| [ID 2024](ID-2024-Unique-Users-Per-Client-Per-Month\Solution.sql)
 | [Number of Shipments Per Month](./ID-2056-Number-of-Shipments-Per-Month/) | `Aggregation`, `Type Conversion`, `Date Truncation` | [ID 2056](ID-2056-Number-of-Shipments-Per-Month\solution.sql)
